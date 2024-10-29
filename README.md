@@ -4,6 +4,6 @@ var body: some View {
 }
 ```
 
-- 👨🏻‍💻: 正在搞 iOS 独立开发
-- 🎯: 比较擅长 Swift & SwiftUI
+- 👨🏻‍💻: iOS 独立开发者
+- 🎯: 擅长 Swift & SwiftUI
 - ❤️: 动漫、健身爱好者
